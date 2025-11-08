@@ -12,5 +12,3 @@ cd app
 npm ci
 npm run dev
 
-
-TEst2
