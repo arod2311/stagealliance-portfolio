@@ -1,5 +1,7 @@
 # Stagealliance (Portfolio)
 
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://stagealliance-portfolio.vercel.app)
+
 Sanitized Next.js app (production-derived). Safe for public viewing.
 
 ## Highlights
