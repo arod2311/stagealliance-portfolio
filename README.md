@@ -1,6 +1,6 @@
 # Stagealliance (Portfolio)
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://stagealliance-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://stagealliance.vercel.app)
 
 Sanitized Next.js app (production-derived). Safe for public viewing.
 
@@ -9,8 +9,3 @@ Sanitized Next.js app (production-derived). Safe for public viewing.
 - Pages: home, contact, crew, gallery
 
 ## Run (local)
-```bash
-cd app
-npm ci
-npm run dev
-
